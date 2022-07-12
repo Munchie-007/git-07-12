@@ -30,3 +30,5 @@ to merge the change do git pull and avoid merge conflict.
 
 
 all done
+
+good deal
